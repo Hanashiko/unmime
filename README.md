@@ -30,14 +30,14 @@ The script performs the following steps:
 
 Input
 
-```html
-=3D=3DThis is a line of text.=0D=0AAnd this is another line.=
-```
+    ```html
+    =3D=3DThis is a line of text.=0D=0AAnd this is another line.=
+    ```
 Output
 
 Running python unmime.py with the above test.html would produce the following output:
 
-```html
-==This is a line of text.
-And this is another line.
-```
+    ```html
+    ==This is a line of text.
+    And this is another line.
+    ```
